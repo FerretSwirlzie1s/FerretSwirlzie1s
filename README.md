@@ -21,4 +21,10 @@
   $${\color{#4f949d}୭˚. ᵎᵎ}$$
   <a href="https://ferrehuh.straw.page">musicwall</a>
   <img src="https://static.wikitide.net/phightingwiki/thumb/a/af/Sticker_vamoopy_Your_Did_It.png/120px-Sticker_vamoopy_Your_Did_It.png?20260608204834">
+
+  <br><br>
+  
+ $${\color{#00A878}epic\space saige\space core!1!}$$ 
+ 
+ <img src="https://cdn.discordapp.com/attachments/1367006597506924596/1521539049955786762/tenor.gif?ex=6a45332a&is=6a43e1aa&hm=1a1a474eb2a3cef6fcd7f14346ae3f62f5e5908275bc780a0d40d9f4ac23aa4c&">
 </p>
