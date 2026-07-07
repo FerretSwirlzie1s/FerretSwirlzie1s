@@ -2,6 +2,8 @@
   
 ![](https://komarev.com/ghpvc/?username=literalferretlover&label=(+˶^ᗜ^˵+)&color=7e7121&style=flat&abbreviated=true)
 
+$${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space strawpg,\space musicwall,\space and\space rentry)\space ARE\space ALL\space NOT\space SAIGE'S!\space STRICTLY\space CTTO!}$$
+
 <p align="center">
 <div align="center">
   
