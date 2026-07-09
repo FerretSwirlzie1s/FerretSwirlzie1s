@@ -15,7 +15,7 @@ $${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space s
   
 $${\color{#82802d}✦}$$      <a href="https://drac0.atabook.org">atabook</a>   $${\color{#715818}✦}$$   <a href="https://rentry.co/thieveden">rentry</a>   $${\color{#5e4313}✦}$$   <a href="https://l003yy.straw.page">strawpage</a>    $${\color{#48200f}✦}$$    <a href="https://ferrehuh.straw.page">musicwall</a>      $${\color{#4d1300}✦}$$
 
-<IMG SRC="https://media.discordapp.net/attachments/1367006597506924596/1524718169112055868/Untitled24_20260709180512.png?ex=6a50c3f3&is=6a4f7273&hm=8624293d0197ed83ce23b794d197082b867d81e4c1d0181413046556c8dfd6ab&=&format=webp&quality=lossless&width=1852&height=617">
+<IMG SRC="https://media.discordapp.net/attachments/1367006597506924596/1524792461388550185/Untitled25_20260709215614.png?ex=6a510924&is=6a4fb7a4&hm=7f560c9f02062537f5ceb8c5efb0fb9e534b34e544b9f2e15cee1d395e05de8c&=&format=webp&quality=lossless&width=1146&height=938">
 
   <div align="center">
   WORK IN PROGRESS !1! 😳😳👀👀😮😮
