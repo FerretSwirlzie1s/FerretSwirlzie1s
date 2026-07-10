@@ -29,7 +29,7 @@ $${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space s
     <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070215847956/SbaaXgAAAAZJREFUAwC3iQDbySI2HgAAAABJRU5ErkJggg.png?ex=6a51b7dd&is=6a50665d&hm=2a3ce681fb4bf0869cc398f8bdcd6865289688ca6d7fa2c914d1996055c5beca&=&format=webp&quality=lossless&width=1704&height=462" alt="strawpage" height="50">
   </a>
    <div align="center">
-  <a href="https://l003yy.straw.page" target="_blank">
+  <a href="https://ferrehuh.straw.page/" target="_blank">
     <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070584684675/9WcMnAAAABklEQVQDAMaPjcuNtns3AAAAAElFTkSuQmCC.png?ex=6a51b7dd&is=6a50665d&hm=ea32a096ceca641e675d5d9cfc0acb0010e6a26827c7d90b72088a7defd521b4&=&format=webp&quality=lossless&width=1704&height=503" alt="music wall" height="50">
   </a>
 
