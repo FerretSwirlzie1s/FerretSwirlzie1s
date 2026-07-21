@@ -7,7 +7,7 @@ $${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space s
 <p align="center">
 <div align="center">
   
-  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523250822497042492/Untitled22_20260705151005.png?ex=6a4b6d60&is=6a4a1be0&hm=8a88cf0b7d32d98c0a45cd8edfcb4628e1b2423b977876c6aee7d7b1e3f68647&=&format=webp&quality=lossless&width=1704&height=569">
+  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523250822497042492/Untitled22_20260705151005.png?ex=6a608560&is=6a5f33e0&hm=57412b9085919009dc135fc41f1500b8716fe621ca763108463fe97965fc84a6&=&format=webp&quality=lossless&width=1758&height=586">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=25&pause=30&color=715818&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
