@@ -7,7 +7,7 @@ $${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space s
 <p align="center">
 <div align="center">
   
-  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523250822497042492/Untitled22_20260705151005.png?ex=6a608560&is=6a5f33e0&hm=57412b9085919009dc135fc41f1500b8716fe621ca763108463fe97965fc84a6&=&format=webp&quality=lossless&width=1758&height=586">
+  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523250822497042492/Untitled22_20260705151005.png?ex=6a63d120&is=6a627fa0&hm=513fc73932552d01e1226ccbc283a16b5116c03a88fccb50e6c7d18f674dc97b&=&format=webp&quality=lossless&width=1761&height=587">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=25&pause=30&color=715818&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
@@ -26,12 +26,12 @@ $${\color{#715818}ALL\space INCLUDED\space HERE\space (except\space ata,\space s
 
   <div align="center">
   <a href="https://l003yy.straw.page" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070215847956/SbaaXgAAAAZJREFUAwC3iQDbySI2HgAAAABJRU5ErkJggg.png?ex=6a51b7dd&is=6a50665d&hm=2a3ce681fb4bf0869cc398f8bdcd6865289688ca6d7fa2c914d1996055c5beca&=&format=webp&quality=lossless&width=1704&height=462" alt="strawpage" height="50">
+    <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070215847956/SbaaXgAAAAZJREFUAwC3iQDbySI2HgAAAABJRU5ErkJggg.png?ex=6a642cdd&is=6a62db5d&hm=1f2c05eda1b905dcdc1be3294b98fbfc4a10772d3836e1825c542bbef75e2e92&=&format=webp&quality=lossless&&width=1613&height=476&width=1461&height=450" alt="strawpage" height="50">
   </a>
    <div align="center">
   <a href="https://ferrehuh.straw.page/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070584684675/9WcMnAAAABklEQVQDAMaPjcuNtns3AAAAAElFTkSuQmCC.png?ex=6a51b7dd&is=6a50665d&hm=ea32a096ceca641e675d5d9cfc0acb0010e6a26827c7d90b72088a7defd521b4&=&format=webp&quality=lossless&width=1704&height=503" alt="music wall" height="50">
+    <img src="https://media.discordapp.net/attachments/1367006597506924596/1524980070584684675/9WcMnAAAABklEQVQDAMaPjcuNtns3AAAAAElFTkSuQmCC.png?ex=6a642cdd&is=6a62db5d&hm=b60262ac0a9641e7d3513a6f5d19c498cd3738e65f46a61524ba369975c4132d&=&format=webp&quality=lossless&width=1613&height=476&width=1461&height=450" alt="music wall" height="50">
   </a>
 
 
-  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523457386814111794/Untitled19_20260706063404.png?ex=6a4c2dc1&is=6a4adc41&hm=00dd3fac7777a386e46b6c1deafecf00ab01b0e4b85dc94aa5cdfa40b816550c&=&format=webp&quality=lossless&width=1840&height=828">
+  <img src="https://media.discordapp.net/attachments/1367006597506924596/1523457386814111794/Untitled19_20260706063404.png?ex=6a63e8c1&is=6a629741&hm=ae1ece8008133c449cb560a1f008cca537d71bb88c3bc1daa6d995dfafd56fb7&=&format=webp&quality=lossless&width=1733&height=779">
