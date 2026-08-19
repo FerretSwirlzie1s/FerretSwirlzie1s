@@ -10,11 +10,15 @@
 
 <img src="https://media.discordapp.net/attachments/1367006597506924596/1539599063266238524/Untitled47_20260819193627.png?ex=6a86e6dd&is=6a85955d&hm=11d3b7bfde285268dcd5ea71487923cd6c4638181ad5c95591c769b2b0ac4b91&=&format=webp&quality=lossless&width=455&height=455">
 
-<p align="center">
+<div align="right">
 
+<details open>
+<summary>testing!</summary>
 
-<div align="center">
-  
+testingisaitinwaet
+
+</details>
+
   <a href="https://drac0.atabook.org">atab</a>
   
   <a href="https://rentry.co/thieveden">rentry</a>
