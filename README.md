@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=literalferretlover&label=highkenuinetastic+awesome+viewers&color=20cb9e&style=flat&abbreviated=true)
 
+<img src="https://api.removal.ai/download/g1/preview/4f145d56-4a64-47a6-92bd-dfc9ae463c0d.png"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=30&color=5fe086&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
 
 <br><br>
