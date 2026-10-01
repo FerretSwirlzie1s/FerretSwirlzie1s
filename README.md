@@ -1,29 +1,24 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=literalferretlover&label=highkenuinetastic+awesome+viewers&color=20cb9e&style=flat&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=literalferretlover&label=highkenuinetastic+awesome+viewers&color=7ea264&style=flat&abbreviated=true)
 
-<img src="https://api.removal.ai/download/g1/preview/4f145d56-4a64-47a6-92bd-dfc9ae463c0d.png"/>
+<img src="https://api.removal.ai/download/g1/preview/10518650-4329-4553-b7db-97183ce10116.png"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=30&color=5fe086&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
+<img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=30&color=cad18e&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
 
 <br><br>
 
 <table>
-<tr>
-<td>
-<img src="https://media.discordapp.net/attachments/1367006597506924596/1539599062532362342/Untitled47_20260819193558.png?ex=6a86e6dc&is=6a85955c&hm=795f2198f3141a7705c68f80d68da6cf00cb36215dc0b0b141eaac4f71e47b35&=&format=webp&quality=lossless&width=500&height=500">
-</td>
 
 <td>
+<div align="center">
 <details>
 <summary>୨ৎ $\color{#693796}{\text{(˶ˆᗜˆ˵) }}$</summary>
 $\color{#675da6}{\text{Saige.ᐟ // Draco // Keath}}$
-
 $\color{#20cb9e}{\text{ShuriSword = forever Saige's supermacy.ᐟ}}$
 $\color{#5fe086}{\text{Highly encouraged to read Saige's rentry to get to know more about Saige.ᐟ}}$
 $\color{#20cb9e}{\text{Whisper to interact bcuz Saige is most likely off tab.ᐟ}}$  
 $\color{#675da6}{\text{Remember to sign Saige's atabook.ᐟ}}$
-
 </details>
 </td>
 </tr>
@@ -31,12 +26,9 @@ $\color{#675da6}{\text{Remember to sign Saige's atabook.ᐟ}}$
 
 
 <table>
-<tr>
-<td>
-<img src="https://media.discordapp.net/attachments/1367006597506924596/1539599063266238524/Untitled47_20260819193627.png?ex=6a86e6dd&is=6a85955d&hm=11d3b7bfde285268dcd5ea71487923cd6c4638181ad5c95591c769b2b0ac4b91&=&format=webp&quality=lossless&width=500&height=500">
-</td>
 
 <td>
+<div align="center">
 <details>
 <summary>୨ৎ $\color{#693796}{\text{(˶ᵔ ᵕ ᵔ˶) }}$</summary>
 <a href="https://drac0.atabook.org" target="_blank">
