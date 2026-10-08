@@ -16,7 +16,7 @@
 <td>
 <div align="center">
 <details>
-<summary>୨ৎ $\color{#cccc98}{\text{(˶ˆᗜˆ˵) }}$</summary>
+<summary>୨ৎ $\color{#cccc98}{\text{before you interact! }}$</summary>
 $\color{#998932}{\text{Saige.ᐟ // Draco // Keath}}$
 $\color{#9a2b34}{\text{ShuriSword = forever Saige's supermacy.ᐟ}}$
 $\color{#d57e53}{\text{Highly encouraged to read Saige's rentry to get to know more about Saige.ᐟ}}$
