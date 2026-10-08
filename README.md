@@ -33,13 +33,13 @@ $\color{#cccc98}{\text{Remember to sign Saige's atabook.ᐟ}}$
 <details>
 <summary>୨ৎ $\color{#cccc98}{\text{(˶ᵔ ᵕ ᵔ˶) }}$</summary>
 <a href="https://drac0.atabook.org" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1539614995401412638/l188cgAAAAZJREFUAwDYpsquiAxq4QAAAABJRU5ErkJggg.png?ex=6a86f5b3&is=6a85a433&hm=db862c54da234b23c6e13ebf2a01aadeaf994edefd163c87d3e029bf7bad5c84&=&format=webp&quality=lossless" alt="Atabook " height="50">
+    <img src="https://64.media.tumblr.com/6d4072cbcc4ca4f6cb0f41252026b2ff/0fded36d2c9d5336-7d/s1280x1920/76c35a880f918b598c849bcbfe3529676116a92f.pnj" alt="Atabook " height="50">
   <a href="https://rentry.co/thieveden" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1539614995724107990/n9rlFAAAAAZJREFUAwBHrL0NTxkDpgAAAABJRU5ErkJggg.png?ex=6a86f5b3&is=6a85a433&hm=7e96236e72c44e45c440f4fe54ee9e501c809e294427df038c415ae1c25e06a5&=&format=webp&quality=lossless" alt="Rentry " height="50">
+    <img src="https://64.media.tumblr.com/190cc0f3c640341f96f0be62f100b37a/0fded36d2c9d5336-97/s1280x1920/099a8957e002d526c7fbb9c11dc626c80d3da985.pnj" alt="Rentry " height="50">
 <a href="https://l003yy.straw.page" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1539614996101734470/yioJIAAAAGSURBVAMAtbC38Ep4bUAAAAASUVORK5CYII.png?ex=6a86f5b3&is=6a85a433&hm=337145e27f2397b942fa3a974837034b1ce52db0d568a615465da359a24a6d46&=&format=webp&quality=lossless" alt="Strawpage " height="50">
+    <img src="https://64.media.tumblr.com/534b3323baddfdc39f8ae618e923dc50/9fea7b4689271c42-70/s540x810/903a63184e0f44f7f43d8254fd31ffb5bcab953b.pnj" alt="Strawpage " height="50">
   <a href="https://ferrehuh.straw.page" target="_blank">
-    <img src="https://media.discordapp.net/attachments/1367006597506924596/1539614996609114232/05yWJwAAAAZJREFUAwCSDUGt6PZwAwAAAABJRU5ErkJggg.png?ex=6a86f5b3&is=6a85a433&hm=421d274000f4786e4ede34bdb1e6540c982dabd51bac3f890af789698d0446aa&=&format=webp&quality=lossless" alt="Music Wall" height="50">
+    <img src="https://64.media.tumblr.com/48e716954e01348ae8e36d8231c15c3b/0c22cb1f0c82400f-3d/s1280x1920/2ab879dc039d85c7d8b8ac8e7aadefe09e752577.pnj" alt="Music Wall" height="50">
   </a>
 
 </details>
