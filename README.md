@@ -17,11 +17,17 @@
 <div align="center">
 <details>
 <summary>୨ৎ $\color{#cccc98}{\text{before you interact! }}$</summary>
-$\color{#998932}{\text{Saige.ᐟ // Draco // Keath}}$
+
+$\color{#998932}{\text{Saige is 18 BELOW (sorry gang :< ) .ᐟ }}$
+
 $\color{#9a2b34}{\text{ShuriSword = forever Saige's supermacy.ᐟ}}$
+
 $\color{#d57e53}{\text{Highly encouraged to read Saige's rentry to get to know more about Saige.ᐟ}}$
-$\color{#f7bb72}{\text{Whisper to interact bcuz Saige is most likely off tab.ᐟ}}$  
+
+$\color{#f7bb72}{\text{Whisper to interact bcuz Saige is most likely off tab.ᐟ}}$ 
+
 $\color{#cccc98}{\text{Remember to sign Saige's atabook.ᐟ}}$
+
 </details>
 </td>
 </tr>
@@ -31,7 +37,7 @@ $\color{#cccc98}{\text{Remember to sign Saige's atabook.ᐟ}}$
 <td>
 <div align="center">
 <details>
-<summary>୨ৎ $\color{#cccc98}{\text{(˶ᵔ ᵕ ᵔ˶) }}$</summary>
+<summary>୨ৎ $\color{#cccc98}{\text{click a flower to visit my other sites! }}$</summary>
 <a href="https://drac0.atabook.org" target="_blank">
     <img src="https://64.media.tumblr.com/6d4072cbcc4ca4f6cb0f41252026b2ff/0fded36d2c9d5336-7d/s1280x1920/76c35a880f918b598c849bcbfe3529676116a92f.pnj" alt="Atabook " height="50">
   <a href="https://rentry.co/thieveden" target="_blank">
