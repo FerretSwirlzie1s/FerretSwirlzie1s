@@ -17,11 +17,11 @@
 <div align="center">
 <details>
 <summary>୨ৎ $\color{#cccc98}{\text{(˶ˆᗜˆ˵) }}$</summary>
-$\color{#675da6}{\text{Saige.ᐟ // Draco // Keath}}$
-$\color{#20cb9e}{\text{ShuriSword = forever Saige's supermacy.ᐟ}}$
-$\color{#5fe086}{\text{Highly encouraged to read Saige's rentry to get to know more about Saige.ᐟ}}$
-$\color{#20cb9e}{\text{Whisper to interact bcuz Saige is most likely off tab.ᐟ}}$  
-$\color{#675da6}{\text{Remember to sign Saige's atabook.ᐟ}}$
+$\color{#998932}{\text{Saige.ᐟ // Draco // Keath}}$
+$\color{#9a2b34}{\text{ShuriSword = forever Saige's supermacy.ᐟ}}$
+$\color{#d57e53}{\text{Highly encouraged to read Saige's rentry to get to know more about Saige.ᐟ}}$
+$\color{#f7bb72}{\text{Whisper to interact bcuz Saige is most likely off tab.ᐟ}}$  
+$\color{#cccc98}{\text{Remember to sign Saige's atabook.ᐟ}}$
 </details>
 </td>
 </tr>
