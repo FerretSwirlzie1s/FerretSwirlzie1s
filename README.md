@@ -1,10 +1,11 @@
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=literalferretlover&label=cool+viewers+:]&color=7ea264&style=flat&abbreviated=true)
+
+
 <img src="https://64.media.tumblr.com/6ebdce4944864fde290b3928bfeebdb5/921b2f4226f36726-9e/s1280x1920/38c6d520592b5d2f3cbf905b9bb4224001fd66cd.pnj">
 
 <br><br>
-
-![](https://komarev.com/ghpvc/?username=literalferretlover&label=cool+viewers+:]&color=7ea264&style=flat&abbreviated=true)
 
 <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=30&color=cad18e&center=true&vCenter=true&repeat=true&width=700&lines=Blink+and+they'll+miss+me!;I+could+go+for+a+nice+snack+right+now...;From+the+shadows!;Wombo+combo!;Time+to+pick+up+the+pace!" />
 
