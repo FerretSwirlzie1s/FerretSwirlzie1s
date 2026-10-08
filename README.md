@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://64.media.tumblr.com/6ebdce4944864fde290b3928bfeebdb5/921b2f4226f36726-9e/s1280x1920/38c6d520592b5d2f3cbf905b9bb4224001fd66cd.pnj">
+
+
+
 ![](https://komarev.com/ghpvc/?username=literalferretlover&label=highkenuinetastic+awesome+viewers&color=7ea264&style=flat&abbreviated=true)
 
 <img src="https://api.removal.ai/download/g1/preview/10518650-4329-4553-b7db-97183ce10116.png"/>
@@ -48,3 +52,5 @@ $\color{#675da6}{\text{Remember to sign Saige's atabook.ᐟ}}$
 </td>
 </tr>
 </table>
+
+<img src="https://64.media.tumblr.com/c7e348812743d32e482157c9368c8ea4/921b2f4226f36726-d1/s1280x1920/5a373f95f6987ce53de7042f4db23e4f0933216c.pnj">
